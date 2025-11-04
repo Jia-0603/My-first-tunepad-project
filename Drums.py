@@ -17,7 +17,7 @@ def short_drum_beat():
     
     playNote(30, beats=0.5)
 
-# 循环2次（共16拍）
+# Repeat 2 times (total 16 beats)
 for _ in range(2):
     short_drum_beat()
 
