@@ -2,8 +2,8 @@
 Comprising three types of musical instruments and spinning
 
 Open the code input box for the corresponding instrument in TunePad, enter the corresponding code, and click Start to listen
-<img width="744" height="1056" alt="image" src="https://github.com/user-attachments/assets/a9500f67-3cdc-4b28-8e30-9fa3361e338c" />
-<img width="740" height="995" alt="image" src="https://github.com/user-attachments/assets/0f5fdd76-1cc6-4f30-862e-10e306b5a4c1" />
-<img width="723" height="1029" alt="image" src="https://github.com/user-attachments/assets/a486181a-7f33-4910-9de5-7396a69474fa" />
 
 
+![tunepad com_project_117957](https://github.com/user-attachments/assets/20d9d24f-c1ee-4196-a543-566f0f185503)
+![tunepad com_project_117957 2](https://github.com/user-attachments/assets/9a0aaac4-7477-4068-94d3-1a168cd79549)
+![tunepad com_project_117957 3](https://github.com/user-attachments/assets/f81b60bb-2f2b-4f5b-9363-61d9d21fdc0a)
